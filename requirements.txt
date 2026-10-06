@@ -1,0 +1,7 @@
+streamlit>=1.53
+numpy
+pandas
+altair
+pillow
+scikit-learn
+streamlit-drawable-canvas
